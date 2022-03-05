@@ -12,7 +12,7 @@
   -Data Visualizaiton with Matplotlib, Seaborn, pyplot
   -Building and testing ML models with Scikit-learn
 
-- I’m interested in data and we can leverage it to make the world a better place through Data Science, the cloud, and AI and ML Development.
+- I’m interested in data and how we can leverage it to make the world a better place through Data Science, the cloud, and AI and ML Development.
 
 -Completed Projects
   -Developed a KNNClassifier from scratch that provided classification and regression features and output class membership results
