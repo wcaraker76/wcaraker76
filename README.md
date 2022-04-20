@@ -4,13 +4,13 @@
 - AI and ML engineering certificate thorugh Strata.AI and 4GeeksAcademy Expected completion date: April 2022
   -Module #1: Data Science for AI (COMPLETE)
   -Module #2: Statistics for Data Science (COMPLETE)
-  -Module #3: Applied Machine Learning (WIP)
-  -Module #4: Applied Deep Learning (Mid March-Mid April)
+  -Module #3: Applied Machine Learning (COMPLETE)
+  -Module #4: Applied Deep Learning (WIP)
 
 -Skills
   -Advanced Python Programming including: Numpy, Pandas
   -Data Visualizaiton with Matplotlib, Seaborn, pyplot
-  -Building and testing ML models with Scikit-learn
+  -Building and testing ML models with Scikit-learn, TensorFlow
 
 - I’m interested in data and how we can leverage it to make the world a better place through Data Science, the cloud, and AI and ML Development.
 
