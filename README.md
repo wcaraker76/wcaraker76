@@ -1,23 +1,13 @@
-- Hi, I am a strong analytical and passionate Data Scientist with experience devleoping modes that translate data into actionable data insights. I am bringing forth collaborative and problem-solving abilities to synthesize quantitative information, cooperate with theam members and clients, and delivering business value effectively. I am looking for opportunities to help companies deive business strategy, effcient operations, cost savings, and sales performance leveraging use-case-centered, data-first methods, and technologies.
+- Hi, I am a passionate and team oriented software devloper in the crop insurance sector. I enjoy devleoping apps both native and web based. I also love the experiment with new ML models. 
 
 -I’m currently working on 
-- AI and ML engineering certificate thorugh Strata.AI and 4GeeksAcademy Expected completion date: April 2022
-  -Module #1: Data Science for AI (COMPLETE)
-  -Module #2: Statistics for Data Science (COMPLETE)
-  -Module #3: Applied Machine Learning (COMPLETE)
-  -Module #4: Applied Deep Learning (WIP)
+  Playing aroudn with Unreal Engine 5 to get familiar with another side of development
 
 -Skills
   -Advanced Python Programming including: Numpy, Pandas
   -Data Visualizaiton with Matplotlib, Seaborn, pyplot
   -Building and testing ML models with Scikit-learn, TensorFlow
-
-- I’m interested in data and how we can leverage it to make the world a better place through Data Science, the cloud, and AI and ML Development.
-
--Completed Projects
-  -Developed a KNNClassifier from scratch that provided classification and regression features and output class membership results
-  -Used Jupyter Notebook to analyze Titatic Passenger data and determine who was most likely to survive using Numpy, Pandas, Seaborn, and Matplotlib
-  -Taught and selected a model to determine whether customers would default on their credit card payments based on their previous credit card payments. 
+ 
  
  -Ask me about
   -Data Science
