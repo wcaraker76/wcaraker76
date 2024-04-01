@@ -1,4 +1,4 @@
-- Hi, I am a passionate and team oriented software devloper in the crop insurance sector. I enjoy devleoping apps both native and web based. I also love the experiment with new ML models. 
+- Hi, I am a passionate and team oriented software devloper in the crop insurance sector. I enjoy devleoping apps both native and web based. I also love to experiment with new ML models. 
 
 - I’m currently working on: 
     Playing around with Unreal Engine 5 to get familiar with another side of development
@@ -9,7 +9,7 @@
     -Building and testing ML models with Scikit-learn, TensorFlow
     -Web Dev with TS, JS, and vue.js
     -Native app dev with VB.net and C#
-    -SQL data manipulation with SSMS and Postgres
+    -SQL data manipulation with SSMS, Postgres, and DB2
  
  - Ask me about
     -Data Science
